@@ -4,12 +4,12 @@
 #define CONFIG_H
 
 // Credenciales Adafruit IO
-#define USUARIO_IO  "samuelu2003"
-#define CLAVE_IO    "aio_AaWu368JgSaQi6N3P7iQjUSKs99p"
+#define USUARIO_IO  ""
+#define CLAVE_IO    ""
 
 // WiFi
-#define WIFI_SSID   "Fam_Urbina21"
-#define WIFI_PASS   "SamuelUrbina2003#"
+#define WIFI_SSID   ""
+#define WIFI_PASS   ""
 
 // UART con Arduino Nano
 #define PIN_RX  16
